@@ -1,0 +1,8 @@
+[03-Sep-2017 18:47:28 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 18:47:33 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 18:47:33 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/trend/trendsql.php on line 2
+[03-Sep-2017 18:47:33 Asia/Tokyo] PHP Notice:  Undefined variable: title in /home/enomoto/www/ArroganciA/kaiin/trend/trend.php on line 15
+[03-Sep-2017 18:47:33 Asia/Tokyo] PHP Notice:  Undefined variable: title in /home/enomoto/www/ArroganciA/kaiin/trend/trend.php on line 30
+[03-Sep-2017 18:47:33 Asia/Tokyo] PHP Notice:  Undefined variable: howtodisp in /home/enomoto/www/ArroganciA/kaiin/trend/trend_disp.php on line 3
+[03-Sep-2017 18:47:33 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/trend/trend.php on line 90
+[03-Sep-2017 18:48:11 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2

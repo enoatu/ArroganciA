@@ -1,0 +1,34 @@
+[26-Aug-2017 02:19:22 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[26-Aug-2017 02:19:22 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[26-Aug-2017 02:19:23 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[26-Aug-2017 02:21:53 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[26-Aug-2017 02:21:53 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[26-Aug-2017 03:08:16 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[26-Aug-2017 03:08:16 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[26-Aug-2017 03:08:16 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[26-Aug-2017 03:08:24 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[26-Aug-2017 03:08:24 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[26-Aug-2017 03:08:24 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 18:48:14 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 18:48:14 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 18:48:15 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 18:53:06 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 18:53:06 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 21:35:33 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:35:33 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 21:35:33 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 21:37:51 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:37:51 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 21:37:51 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 21:38:08 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:38:08 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 21:38:08 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 21:41:23 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:41:23 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 21:41:23 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 22:30:36 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 22:30:36 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 22:30:36 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64
+[03-Sep-2017 22:31:44 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 22:31:44 Asia/Tokyo] PHP Notice:  Undefined index: sql_result in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 34
+[03-Sep-2017 22:31:44 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/gr/gl_base.php on line 64

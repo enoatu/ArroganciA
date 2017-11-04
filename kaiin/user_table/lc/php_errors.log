@@ -1,0 +1,28 @@
+[03-Sep-2017 21:35:34 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:35:34 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 58
+[03-Sep-2017 21:37:54 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:37:54 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 58
+[03-Sep-2017 21:41:24 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:41:24 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 58
+[03-Sep-2017 21:44:09 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:44:09 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 60
+[03-Sep-2017 21:44:59 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:44:59 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 60
+[03-Sep-2017 21:46:40 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:46:40 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 60
+[03-Sep-2017 21:46:41 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:46:41 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 60
+[03-Sep-2017 21:49:42 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:49:42 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 61
+[03-Sep-2017 21:50:54 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:50:54 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 63
+[03-Sep-2017 21:51:24 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:51:24 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 63
+[03-Sep-2017 21:51:57 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:51:57 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 63
+[03-Sep-2017 21:52:12 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:52:12 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 63
+[03-Sep-2017 21:52:27 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:52:27 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 63
+[03-Sep-2017 21:52:44 Asia/Tokyo] PHP Notice:  A session had already been started - ignoring session_start() in /home/enomoto/www/ArroganciA/kaiin/kaiin_utils.php on line 2
+[03-Sep-2017 21:52:44 Asia/Tokyo] PHP Notice:  Undefined index: check in /home/enomoto/www/ArroganciA/kaiin/user_table/lc/base_lo.php on line 63

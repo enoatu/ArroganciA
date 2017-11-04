@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+.aaa{
+    position: relative;
+    width: 10%; height: 10%;
+    bottom:auto;
+
+}
+.kojin{
+    text-align: center;
+}
+
+
+
+body{
+
+    background: url(/ArroganciA/kaiin/images/arro1.png);
+
+}
+#home_wrap{
+    padding :1% 5% 5% 5%;
+    margin :2% auto;
+    border: solid 1px;
+    background-color: #fff;
+}
+
+.select{
+    font-size:150%;
+    width: 110%;
+    height: 80%;
+}
+.wraph{position: relative;
+    top:5%;
+
+    text-align: center;
+
+    width: 80%;
+    background-color:#fff;
+    padding :10% 10%;
+    margin :10% auto;
+    border: solid 1px;
+}
+.tab{
+    border: solid 1px;
+    text-align: center;
+    font-weight: bold ;
+    line-height: 25%;
+
+}
+

@@ -1,0 +1,16 @@
+hmdTextGet.php
+DBにアクセスし、es(タイトルと単語団)を取得する
+
+hmdUtilでDB情報を取得しgetDB()
+postで処理を行い
+内部で更新
+アラートで知らせる
+setFinished.phpでタイトルと単語団の更新処理を行う
+
+GUI
+枠一つ
+＆で複数指定
+
+セットを増やす
+セット
+

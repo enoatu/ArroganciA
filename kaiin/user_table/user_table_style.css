@@ -1,0 +1,91 @@
+@charset "UTF-8";
+body{
+    background: url(../images/arro1.png);
+}
+h1{border :#fff 1px solid;
+    padding:10px;
+    background: rgba(255,255,255,0.7);
+    border-radius: 10px;
+    text-align: center;
+    color: #7ac2ff;
+}
+.table0 {
+    /*margin: 0.5em;*/
+    /*padding: 0;*/
+    border-collapse: collapse;
+    /*border: 1px solid;*/
+    /*table-layout: fixed;*/
+    margin-right: 15px;
+}
+
+.thead1 {
+    background-color: #ffc499;
+    /*#7ac2ff;*/
+    text-align: center;
+}
+
+th{
+    border: 1px solid;
+
+}
+
+.td32{ border :1px solid #000;
+    padding: 0.5em;
+    height: auto;
+}
+
+.tr2{
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    height: auto;
+    border: 1px solid ;
+}
+.ttt{cursor: pointer;}
+
+.ttt:first-child{
+    text-align: left;
+    /* id*/
+    width: 60%;
+}
+
+.ttt:nth-child(2){
+    text-align: center;
+    /* tweet*/
+    /*table-layout: fixed;*/
+    width:10%;
+}
+
+.ttt:nth-child(3){
+    text-align: center;
+    /* iine*/
+    width:10%;
+}
+
+.ttt:nth-child(4){
+    text-align: center;
+    /* user*/
+    width:10%;
+}
+
+
+.ttt:nth-child(5){
+    text-align: center;
+    /* acount*/
+    width: 10%;
+}
+
+
+
+.ttt tr:nth-child(even){
+    background-color: #dff0ff;
+}
+
+.ttt tr:nth-child(odd){
+    background-color: #fff;
+}
+
+
+input[type=checkbox] {
+    width:			24px;
+    height:			24px;
+    vertical-align: middle;
+}
