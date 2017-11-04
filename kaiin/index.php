@@ -73,7 +73,7 @@ if(isset($_POST['login'])) {
 </form>
 
     <br><br><div style="background-color: #fff; padding:3%;margin:3%;border-radius: 30px"><h1 align="center">ArroganciAとは</h1><br><h2>
-            超･リアルタイムな世界最速需要取得 webアプリケーション(!?)です。<br><br>アプリやwebサイト等を作りたいな、と思った時、何を作ればいいのかわからない。<br><br>
+                売れそうなアプリやシステムなどのアイディアをTwitterから収集するアプリです。詳細としては、・・・ごほん！超･リアルタイムな世界最速需要取得 webアプリケーション(!?)です。<br><br>アプリやwebサイト等を作りたいな、と思った時、何を作ればいいのかわからない。<br><br>
             そんな人はArroganciAを利用してみるのはいかがでしょうか？<br><br>ArroganciAを利用すれば現在進行形の流行に乗ることができ、<br><br>豊富にある組み込まれたリソースを駆使すれば需要のあるアプリ、webサイト、システム、サービス等の情報を入手し、管理することができます。
             </h2></div><br> <br>
         <table>
