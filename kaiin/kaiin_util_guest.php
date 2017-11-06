@@ -1,6 +1,5 @@
 <?php
-session_start();
-include "../../atsushi/gtd.php";
+include __DIR__."/../../atsushi/gtd.php";
 $gg= <<<"EOD"
     <style>
     #table1 {
