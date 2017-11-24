@@ -30,10 +30,10 @@ if($_SESSION['user']==32){
             <p style="width:250px;padding:10px;background-color: #fff;">
                 <span style="size: 2em;">表示中のツイートを <input type="submit"
                                                                                 class="dlbtn" name="dlbtn" value="ダウンロード" />
-                </span></p>
+                </span></p></form>
         <h1 id="h1"><?php echo $title; ?></h1>
 
-        <form name="f1" method="post" action="../redirect.php">
+        <form name="f1" method="post" id="f1form" action="../redirect.php">
 
             <?php
             try {
@@ -70,7 +70,7 @@ $_SESSION['result']=$result;
             <div><a href="#botomn" id="botom"><img src="../../images/botom.png" width="40" height="40"  alt="botom"></a></div>
             <input type="submit" value="" class="delete_btn"  id="delete_btn">
         </form>
-        </form>
+
 <!--        <script> var flag;-->
 <!--            var obj = document.f1.elements['check[]'];-->
 <!--            var len = obj.length;-->

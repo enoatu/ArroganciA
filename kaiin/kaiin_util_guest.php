@@ -1,4 +1,5 @@
 <?php
+session_start();
 include __DIR__."/../../atsushi/gtd.php";
 $gg= <<<"EOD"
     <style>
