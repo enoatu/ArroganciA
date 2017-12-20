@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once "user_table/gr/getdb.php";
+include __DIR__."/../../atsushi/gtd.php";
 if( isset($_SESSION['user']) != "") {
     // ログイン済みの場合はリダイレクト
     header("Location: home.php");

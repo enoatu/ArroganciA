@@ -2,7 +2,7 @@
 session_start();
 require_once("../../../lib_es/util.php");
 //not exception error
-require_once("getdb.php");
+include __DIR__."/../../atsushi/gtd.php";
 
 if(!isset($_SESSION['user'])) {
     header("Location: index.php");

@@ -16,7 +16,7 @@ if(!isset($_SESSION['user'])) {
     header("Location: index.php");
     exit();
 }
-require_once "user_table/gr/getdb.php";
+include __DIR__."/../../atsushi/gtd.php";
 //require_once "kaiin_utils.php";
         if($_POST['taikai']=="Yes"){
            $user_id= $_SESSION["user"];

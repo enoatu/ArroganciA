@@ -3,7 +3,7 @@ session_start();
 if( isset($_SESSION['user']) != "") {
 	header("Location: home.php");
 }
-require_once "user_table/gr/getdb.php"
+include "../../atsushi/gtd.php";
 //require_once "kaiin_utils.php";
 ?>
 <?php
